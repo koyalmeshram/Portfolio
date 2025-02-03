@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "role": "Assistant System Engineer",
+    "organisation": "Tata Consultancy Services",
+    "startDate": "March, 2022",
+    "endDate": "December 2023",
+    "location": "Nagpur, Maharashtra",
+    "experiences": [
+      "Built dynamic, responsive UI components with React.js and API integration.",
+      "Collaborated with teams to ensure design consistency."
+    ],
+    "imageSrc": "company/tcs.webp"
+  },
+  {
+    "id": 2,
+    "role": "Internshala Student Partner - Intern",
+    "organisation": "Internshala",
+    "startDate": "June, 2021",
+    "endDate": "Aug, 2021",
+    "location": "Reomte",
+    "experiences": [
+      "Promoted Internshala internships and training, boosting registrations.",
+      "Organized seminars and participated in social media campaigns."
+    ],
+    "imageSrc": "company/ISP.jfif"
+  }
+  
+]
